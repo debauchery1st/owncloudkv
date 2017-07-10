@@ -20,3 +20,8 @@ it successfully compiles to android apk on the kivy/buildozer vm
 the pythonservice process
  dies soon after starting up.
 possibly osc lib related.*
+
+
+
+- if a file named "finished.jpg" exists in the specified path, 
+it will be shown after downloads have completed.
