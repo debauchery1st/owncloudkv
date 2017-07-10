@@ -1,0 +1,41 @@
+[
+    {
+        "type": "title",
+        "title": "ownCloud Settings"
+    },
+    {
+        "type": "string",
+        "title": "Server",
+        "desc": "ownCloud server address.",
+        "section": "General",
+        "key": "own_cloud_server"
+    },
+    {
+        "type": "string",
+        "title": "User name",
+        "desc": "your cloud username",
+        "section": "General",
+        "key": "own_cloud_user"
+    },
+    {
+        "type": "string",
+        "title": "Registered Key",
+        "desc": "this is the registered app key for your ownCloud",
+        "section": "General",
+        "key": "own_cloud_pass"
+    },
+    {
+        "type": "string",
+        "title": "Local directory",
+        "desc": "defaults to ./updates",
+        "section": "General",
+        "key": "own_cloud_local_dir"
+    },
+    {
+        "type": "string",
+        "title": "cloud directory",
+        "desc": "path on your ownCloud server",
+        "section": "General",
+        "key": "own_cloud_remote_dir"
+    }
+]
