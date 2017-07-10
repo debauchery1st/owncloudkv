@@ -16,3 +16,7 @@ it successfully compiles to android apk on the kivy/buildozer vm
     buildozer android debug
     
 
+*it compiles under the new toolchain, but 
+the pythonservice process
+ dies soon after starting up.
+possibly osc lib related.*
